@@ -25,3 +25,4 @@ namespace _5._03
             return base.CostOfDrink(15);
         }
     }
+}
